@@ -1,7 +1,7 @@
  //
 // Created by dn-01 on 28/06/18.
 //
-#import <string>
+#include <string>
 using namespace std;
 
 #ifndef TP3_INSTRUCCION_H

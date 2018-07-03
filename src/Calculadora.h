@@ -4,7 +4,7 @@
 #import <stack>
 #include <string>
 #include <list>
-#include "Programa.hpp"
+#include "Programa.h"
 using namespace std;
 #ifndef SOLUCION_CALCULADORA_H
 #define SOLUCION_CALCULADORA_H
